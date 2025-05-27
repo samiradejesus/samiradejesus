@@ -1,4 +1,4 @@
-q # olá eu sou a samira!
+# olá eu sou a samira!
  
  ## SOBRE MIM 
 - estou cursando o 1º ano do ensino medio
